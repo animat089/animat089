@@ -17,7 +17,7 @@ In my general work day, I can be seen working on solutions for the software comp
 </a>
 <a href="https://www.hackerrank.com/animat089" target="_blank">
     <span style="width:fit-content;white-space:nowrap" alt="HackerRank profile for animat089" title="HackerRank profile for animat089">
-        <img src="https://hrcdn.net/s3_pub/hr-avatars/6653c93b-0af9-4571-b9c4-28a75bbbc239/150x150.png" height="58" width="58">
-        <img src="profile_150.png" height="58" width="148" style="filter:invert(1)">
+        <img src="profile_150.png" height="58" width="58">
+        <img src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg" height="58" width="148" style="filter:invert(1)">
     </span>
 </a>
